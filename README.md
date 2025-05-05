@@ -361,4 +361,4 @@ Understanding attack vectors helps in defending against cyber attacks more effec
 
 1. Phishing Simulation with Explanation (HTML + Social Engineering)
 
-
+2.CIA_TRIAD_VISUALIZER
