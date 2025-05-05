@@ -356,5 +356,9 @@ Brute-force Password Attacks – Guessing weak passwords.
 Why it matters:
 Understanding attack vectors helps in defending against cyber attacks more effectively.
 
-## Cyber Crime 
+
+## practical implementation
+
+1. Phishing Simulation with Explanation (HTML + Social Engineering)
+
 
