@@ -360,14 +360,5 @@ Understanding attack vectors helps in defending against cyber attacks more effec
 ## practical implementation
 
 1. Phishing Simulation with Explanation (HTML + Social Engineering)
-2. implemeting a  CIA traid study implementation in which three things specified using python file 
-3. cyber attack plan 
-4. botnet demonstration
-5. sql injection 
 
-
-
-
-
-## CYBER CRIME 
 
