@@ -360,5 +360,8 @@ Understanding attack vectors helps in defending against cyber attacks more effec
 ## practical implementation
 
 1. Phishing Simulation with Explanation (HTML + Social Engineering)
+2. Botnet detection
+3. sql injection
+4. cia triad 
 
 
